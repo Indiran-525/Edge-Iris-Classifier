@@ -11,12 +11,12 @@ This project performs **ML inference at the edge**, meaning predictions run loca
 
 **Benefits**
 
-* ⚡ Real-time inference
-* 🔋 Low power consumption
-* 🔒 No data sent to cloud
-* 📡 Works offline
-* 💾 Minimal memory usage
-* 🤖 Autonomous operation
+* Real-time inference
+* Low power consumption
+* No data sent to cloud
+* Works offline
+* Minimal memory usage
+* Autonomous operation
 
 ---
 
@@ -109,14 +109,13 @@ Sample 3 predicted class: Iris-virginica
 
 ---
 
-## Edge Intelligence Characteristics
+## Features
 
 * On-device ML inference
 * Deterministic latency
 * Tiny model size
 * Integer-only computation
 * Offline operation
-* Hardware-friendly design
 
 ---
 
@@ -139,8 +138,4 @@ Sample 3 predicted class: Iris-virginica
 * Edge IoT devices
 
 ---
-
-## License
-
-MIT
 
